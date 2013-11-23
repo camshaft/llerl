@@ -1,0 +1,10 @@
+{application, llerl, [
+  {description, "Little language for erlang"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]}
+]}.
